@@ -18,9 +18,7 @@ function App() {
           Learn React
         </a>
       </header>
-      <h1 className="text-xl font-bold underline">
-      Hello TailWind!
-    </h1>
+    
     </div>
   );
 }
